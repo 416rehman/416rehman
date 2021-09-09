@@ -4,7 +4,7 @@
 <h3 align="center">👋 Hi there! I'm Rehman</h3>
 <p align="center">
   <a href="http://www.linkedin.com/in/rehmanahmadzai/">LinkedIn</a> •
-  <a href="http://ahmadz.ai">Website</a> •
+  <a href="https://ahmadz.ai">Website</a> •
   <a href="mailto:hi@ahmadz.ai">Email Me</a>
 </p>
 
