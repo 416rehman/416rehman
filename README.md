@@ -37,6 +37,7 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="/icons/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="/icons/git.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="/icons/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="/icons/django.svg" alt="django" height='42px'/> </a>
 
 <br>
 <!--
