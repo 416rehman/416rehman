@@ -9,11 +9,7 @@
 </p>
 
 ---
-
-🌟A little about me, I am computer programming student from Toronto. As a generalist programmer, I am always working on something, and that something can range from full-stack web dev, messing around with new languages/frameworks, all the way to game dev using Unreal engine.
-
-👯 I’m looking to collaborate on any game dev or full stack web projects.
-
+Hi, I am an Embedded Developer and a hobbyist game dev :)
 ---
 
 ### 🔨 Languages and Tools:
