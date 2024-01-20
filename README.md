@@ -9,7 +9,9 @@
 </p>
 
 ---
+
 Hi, I am an Embedded Developer and a hobbyist game dev :)
+
 ---
 
 ### 🔨 Languages and Tools:
