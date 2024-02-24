@@ -10,7 +10,7 @@
 
 ---
 
-Hi, I am an Embedded Developer and a hobbyist game dev :)
+Hi, I am a developer and a hobbyist game dev :)
 
 ---
 
