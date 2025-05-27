@@ -15,8 +15,10 @@ Hi, I am a developer and a hobbyist game dev :)
 ---
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="/icons/js.svg"> </a>
+
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" height='42px'/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="/icons/c++.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="/icons/js.svg"> </a>
 <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" height ="42px" src="/icons/golang.svg"></a>
 <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" height ="42px" src="/icons/angular.svg"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="/icons/c%23.svg"></a>
@@ -36,7 +38,6 @@ Hi, I am a developer and a hobbyist game dev :)
 <a href="https://git-scm.com/" target="_blank"> <img src="/icons/git.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="/icons/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="/icons/django.svg" alt="django" height='42px'/> </a>
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="/icons/rust.svg" alt="rust" height='42px'/> </a>
 
 <br>
 <!--
