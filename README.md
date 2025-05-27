@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">👋 Hi there! I'm Rehman</h3>
 <p align="center">
-  <a href="http://linkedin.ahmadz.ai">LinkedIn</a> •
+  <a href="https://blog.ahmadz.ai">Blog</a> •
   <a href="https://ahmadz.ai">Website</a> •
   <a href="mailto:hi@ahmadz.ai">Email Me</a>
 </p>
